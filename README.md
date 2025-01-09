@@ -6,5 +6,10 @@
   <h2>A Python script to manipulate Last.fm scrobbles!</h2>
 </div>
 
+## Disclaimer
+
+This project is provided "as-is" without any warranty or guarantee of any kind, either express or implied, including but not limited to the implied warranties of merchantability or fitness for a particular purpose. The author(s) of this project are not liable for any damages, losses, or other consequences that may arise from the use of this software, including but not limited to direct, indirect, incidental, or consequential damages.
+
+By using this software, you agree to do so at your own risk.
 
 

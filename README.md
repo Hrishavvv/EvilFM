@@ -54,5 +54,6 @@ pip install -r requirements.txt
 ```bash
 python3 evil.py
 ```
-![image](https://github.com/user-attachments/assets/b04d2268-73d1-42dd-aab2-5f79b3280d16)
+![image](https://github.com/user-attachments/assets/9f05cd3a-3460-4d0b-90d2-48286156109a)
+
 

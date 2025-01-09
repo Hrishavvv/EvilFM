@@ -57,4 +57,4 @@ def scrobble_artist_track(artist_name, track_name, times=1):
 artist = "Brakence"
 track = "caffeine"
 
-scrobble_artist_track(artist, track, times=500)
+scrobble_artist_track(artist, track, times=1) 

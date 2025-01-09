@@ -6,7 +6,7 @@ import time
 
 API_KEY = "LastFM API KEY"
 API_SECRET = "LastFM API SECRET"
-USERNAME = "LastFM FM API USERNAME"
+USERNAME = "LastFM API USERNAME"
 PASSWORD_HASH = pylast.md5("LastFM PASSWORD")
 
 console = Console()

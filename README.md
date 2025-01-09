@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>A Python script to manipulate Last.fm scrobbles!</h1>
+  <h2>A Python script to manipulate Last.fm scrobbles!</h2>
 </div>
 
 

@@ -56,4 +56,6 @@ python3 evil.py
 ```
 ![image](https://github.com/user-attachments/assets/9f05cd3a-3460-4d0b-90d2-48286156109a)
 
+#### Same process for using the script on Linux, I haven't mentioned the steps of installing python and cloning the repo in Linux seperately becoz someone who uses Linux can do those baisc stuff :)
+
 

@@ -40,7 +40,7 @@ Go to these lines and replace it with your original Last.fm API key, API Secret,
 
 ![image](https://github.com/user-attachments/assets/67c4bcfc-7073-4591-b7ba-e5a06c6e126c)
 
-Find these lines at end of the code and update it accordingly to the artist and the track name and the number of times you want to scrobble it
+Find these lines at the end of the code and update it accordingly to the artist and the track name and the number of times you want to scrobble it
 
 ![image](https://github.com/user-attachments/assets/285c7e54-f7e4-4907-936e-222c986dce1d)
 

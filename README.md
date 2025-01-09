@@ -17,8 +17,7 @@ By using this software, you agree to do so at your own risk.
 ### Getting a Last.fm API account
 Click [here](https://www.last.fm/api/account/create) and make an account and get the API key, API secret and Username.
 
- <img src="https://github.com/user-attachments/assets/725f2ad1-529f-48ff-8e87-348a1e511d7c" alt="Evil FM" style="max-width: 50%; width: 50%; height: auto;">
-
+ <img src="https://github.com/user-attachments/assets/2e1f7599-4006-45f1-8e58-de8fe17b35a3" alt="Evil FM" style="max-width: 50%; width: 50%; height: auto;">
 
 ## Cloning the repository
 

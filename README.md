@@ -43,8 +43,8 @@ Find these lines at the end of the code and update it accordingly to the artist 
 
 ![image](https://github.com/user-attachments/assets/285c7e54-f7e4-4907-936e-222c986dce1d)
 
-### Usage 
-Open cmd and go the drive the ```EvilFM``` folder is in and type the following :
+## Usage (Same for Windows/Linux)
+Open cmd/(terminal in Linux) and go to the drive the ```EvilFM``` folder is in and type the following :
 ```bash
 cd EvilFM
 ```

@@ -43,7 +43,7 @@ Find these lines at the end of the code and update it accordingly to the artist 
 
 ![image](https://github.com/user-attachments/assets/285c7e54-f7e4-4907-936e-222c986dce1d)
 
-## Usage (Same for Windows/Linux)
+## Usage 
 Open cmd/(terminal in Linux) and go to the drive the ```EvilFM``` folder is in and type the following :
 ```bash
 cd EvilFM
@@ -52,10 +52,41 @@ cd EvilFM
 pip install -r requirements.txt
 ```
 ```bash
-python3 evil.py
+python evil.py
 ```
 ![image](https://github.com/user-attachments/assets/9f05cd3a-3460-4d0b-90d2-48286156109a)
 
-#### Same process for using the script on Linux, I haven't mentioned the steps of installing python and cloning the repo in Linux seperately becoz someone who uses Linux can do those baisc stuff :)
+### For Linux/Termux :
 
+#### Same process for cloning and using the script on Linux, I haven't mentioned the steps of cloning the repo in Linux seperately in details but you can just follow this if you're confused.
 
+To install python and git in ``Debian/Ubuntu`` :
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/Hrishavvv/EvilFM.git
+```
+
+Open the evil.py file and change the required things in the code (as mentioned above for Windows)
+
+```bash
+cd EvilFM
+pip install -r requirements.txt
+python3 evil.py
+```
+
+For ``Termux`` :
+```bash
+apt update && sudo apt upgrade -y
+apt install python3 python3-pip git -y
+git clone https://github.com/Hrishavvv/EvilFM.git
+```
+Open the evil.py file and change the required things in the code (as mentioned above for Windows)
+```bash
+cd EvilFM
+nano evil.py
+```
+```bash
+pip install -r requirements.txt
+python3 evil.py
+```

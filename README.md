@@ -84,11 +84,13 @@ git clone https://github.com/Hrishavvv/EvilFM.git
 ```
 *Open the evil.py file and change the required things in the code (as mentioned above for Windows)*
 
-``Run this after you have updated the code``
+``Run this to open the nano text edtitor in Termux``
 ```bash
 cd EvilFM
 nano evil.py
 ```
+
+``Run this after you have updated the code``
 ```bash
 pip install -r requirements.txt
 python3 evil.py

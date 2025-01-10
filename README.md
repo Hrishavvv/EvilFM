@@ -95,5 +95,5 @@ nano evil.py
 pip install -r requirements.txt
 python3 evil.py
 ```
-![image](https://github.com/user-attachments/assets/fce73b54-de4c-4000-91af-b95ee594c897)
+<img src="https://github.com/user-attachments/assets/fce73b54-de4c-4000-91af-b95ee594c897" alt="Evil FM" style="max-width: 60%; width: 60%; height: auto;">
 

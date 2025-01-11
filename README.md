@@ -79,7 +79,7 @@ python3 evil.py
 For ``Termux`` :
 ```bash
 apt update && apt upgrade -y
-apt install python3 python3-pip git -y
+apt install python git -y
 git clone https://github.com/Hrishavvv/EvilFM.git
 ```
 *Open the evil.py file and change the required things in the code (as mentioned above for Windows)*

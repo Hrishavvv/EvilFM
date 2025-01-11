@@ -56,11 +56,11 @@ python evil.py
 ```
 ![image](https://github.com/user-attachments/assets/9f05cd3a-3460-4d0b-90d2-48286156109a)
 
-### For Linux/Termux :
+## For Linux/Termux :
 
 #### Same process for cloning and using the script on Linux, I haven't mentioned the steps of cloning the repo in Linux seperately in details but you can just follow this if you're confused.
 
-To install python and git in ``Debian/Ubuntu`` :
+### To install python and git in ``Debian/Ubuntu`` :
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 python3 evil.py
 ```
 
-For ``Termux`` :
+### For ``Termux`` :
 ```bash
 apt update && apt upgrade -y
 apt install python git -y

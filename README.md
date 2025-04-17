@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/37e951c4-5bb2-498f-b3cb-d8ff0f393bb5" alt="Evil FM" style="max-width: 60%; width: 60%; height: auto;">
-  <h2>A Python Script for Managing Last.fm Scrobbles</h2>
+  <h2>A Python Script for manipulating Last.fm Scrobbles</h2>
 </div>
 
 **EvilFM** is a Python-based utility that leverages the Last.fm API to programmatically manage music scrobbles. With this tool, users can automate scrobbling tracks to their Last.fm profile, specifying the artist, track, and number of scrobbles as needed.
@@ -163,7 +163,6 @@ pip install -r requirements.txt
 
 - **Script Won't Run:** Make sure Python and Git are correctly installed and in your system PATH.
 
----
 
 ## Contributing
 
@@ -175,7 +174,6 @@ We welcome contributions to enhance EvilFM! To contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
 
----
 
 ## License
 
